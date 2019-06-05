@@ -9,3 +9,6 @@ This repo maintains algorithms that are commonly used
 
 ## Approximate algorithm
 - [Greedy hitting set](https://en.wikipedia.org/wiki/Set_cover_problem#Greedy_algorithm)
+- [Min Hash](https://en.wikipedia.org/wiki/MinHash)
+- [Bloom Filter](https://en.wikipedia.org/wiki/Bloom_filter)
+- [Count-min Sketch](https://en.wikipedia.org/wiki/Count–min_sketch)
